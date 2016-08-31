@@ -1,9 +1,8 @@
 [hub]
   protocol = https
 [user]
-  name = Amo Wu
-  email = amo260@gmail.com
-  signingkey = E77D0CB6
+  name = Rafe12 
+  email = 1143762118@qq.com
 [credential]
   helper = osxkeychain
 [color]
@@ -43,3 +42,4 @@
   required = true
 [commit]
   gpgsign = true
+  template = /Users/enochenti/.stCommitMsg

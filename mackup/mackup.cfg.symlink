@@ -39,14 +39,28 @@ directory = Mackup
 #
 # For example, to sync Irssi, Ventrilo and XEmacs, add:
 [applications_to_sync]
-aws
+1password-4
+aria2c
+bettertouchtool
+dash
 flux
 iterm2
+karabiner
+macvim
 moom
 oh-my-zsh
+omnifocus
+omnigraffle
+omniplan
+omnioutliner
 sourcetree
-sublime-text-3
+spotify
 ssh
+sublime-text-3
+tmux
+vim
+vlc
+zsh
 
 # List of applications you want to ignore
 # One application name per line
