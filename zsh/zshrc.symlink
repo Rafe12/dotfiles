@@ -45,7 +45,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(autojump sublime npm pip osx git svn brew brew-cask colorize sudo command-not-found zsh-syntax-highlighting z zsh-autosuggestions zsh-wakatime colored-man-pages)
+plugins=(autojump brew brew-cask colored-man-pages colorize command-not-found git npm osx pip sublime sudo vim-interaction vundle)
 
 source $ZSH/oh-my-zsh.sh
 
