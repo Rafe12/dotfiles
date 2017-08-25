@@ -1,8 +1,8 @@
 [hub]
   protocol = https
 [user]
-  name = Rafe12 
-  email = 1143762118@qq.com
+	name = Enochenti
+	email = enochenti+github@gmail.com
 [credential]
   helper = osxkeychain
 [color]
@@ -10,9 +10,9 @@
   status = auto
   branch = auto
   log = auto
-  ui = true
+	ui = true
 [core]
-  excludesfile = ~/.gitignore
+	excludesfile = /Users/enochenti/.gitignore_global
   editor = vim
 [help]
   autocorrect = 1
@@ -43,5 +43,5 @@
   required = true
 [commit]
  # gpgsign = true
-  template = /Users/enochenti/.stCommitMsg
+	template = /Users/enochenti/.stCommitMsg
   tool = sourcetree
